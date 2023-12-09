@@ -1,4 +1,16 @@
 <template>
+  <div id="texto">
+    <div class="cuadro" id="cuadro1">
+      <div id="titulos">
+        <h1 style="color: #1D3347;">Intercambia tus</h1>
+        <h1 style="color: #028090;">Libros y más...</h1>
+      </div>
+      <p>Treidi es la nueva plataforma para poder intercambiar y adquirir productos entre particulares de manera fácil y rápida.</p>
+    </div>
+    <div class="cuadro" id="cuadro2">
+      <img src="../images/shop.png" alt="" width="100%">
+    </div>
+  </div>
   <div class="products-list">
     
     <v-row no-gutters>
@@ -6,7 +18,7 @@
           v-for="product in store.products"
           :key="product.id"
           cols="12"
-          sm="4"
+          sm="3"
           @click="goToProductPage(product.id)"
       >
         <product-item

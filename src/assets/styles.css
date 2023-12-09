@@ -4,7 +4,43 @@
 }
 
 main {
-    max-width: 900px;
+
     margin: 0 auto;
-    padding: 16px;
+    padding: 50px;
+}
+
+.v-toolbar{
+    background-color: #029C94 !important;
+    text-align: center !important;
+}
+
+.cabecera{
+    width: 400px;
+    margin: auto;
+    color: white;
+}
+
+#texto{
+    width: 100%;
+    padding: 100px !important;
+    display: flex;
+}
+
+.cuadro{
+    width: 50%;
+    color: #A1A3AE;
+}
+
+.products-list{
+    background-color: #F9F9FA !important;
+    width: 100%;
+    padding: 50px;
+}
+
+#cuadro1{
+    padding: 10px;
+}
+
+#titulos{
+    margin-top:10%;
 }

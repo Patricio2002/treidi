@@ -1,11 +1,17 @@
 <template>
   <header>
 
-    <v-toolbar :color='red'>
-      <p>¡Registrate para conseguir 1000 treidis</p>
+    <v-toolbar>
+      <div class="cabecera">
+        <img src="./images/coinIcon.png" alt="" width="30px">
+        ¡Registrate para conseguir 1000 treidis!
+      </div>
 
     </v-toolbar>
+    
   </header>
+
+  
   <main>
     <RouterView />
   </main>
