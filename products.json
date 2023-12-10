@@ -1,0 +1,1326 @@
+{
+    "TestProduct": [
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "1"
+            },
+            "title": {
+              "S": "iPhone 9"
+            },
+            "description": {
+              "S": "An apple mobile which is nothing like apple"
+            },
+            "price": {
+              "N": "549"
+            },
+            "discountPercentage": {
+              "N": "12.96"
+            },
+            "rating": {
+              "N": "4.69"
+            },
+            "stock": {
+              "N": "94"
+            },
+            "brand": {
+              "S": "Apple"
+            },
+            "category": {
+              "S": "smartphones"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/1/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/1/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/1/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/1/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+          
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "2"
+            },
+            "title": {
+              "S": "iPhone X"
+            },
+            "description": {
+              "S": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ..."
+            },
+            "price": {
+              "N": "899"
+            },
+            "discountPercentage": {
+              "N": "17.94"
+            },
+            "rating": {
+              "N": "4.44"
+            },
+            "stock": {
+              "N": "34"
+            },
+            "brand": {
+              "S": "Apple"
+            },
+            "category": {
+              "S": "smartphones"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/2/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/2/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/2/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+           "Item":{
+            "id": {
+              "N": "3"
+            },
+            "title": {
+              "S": "Samsung Universe 9"
+            },
+            "description": {
+              "S": "Samsung's new variant which goes beyond Galaxy to the Universe"
+            },
+            "price": {
+              "N": "1249"
+            },
+            "discountPercentage": {
+              "N": "15.46"
+            },
+            "rating": {
+              "N": "4.09"
+            },
+            "stock": {
+              "N": "36"
+            },
+            "brand": {
+              "S": "Samsung"
+            },
+            "category": {
+              "S": "smartphones"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/3/1.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+           "Item":{
+            "id": {
+              "N": "4"
+            },
+            "title": {
+              "S": "OPPOF19"
+            },
+            "description": {
+              "S": "OPPO F19 is officially announced on April 2021."
+            },
+            "price": {
+              "N": "280"
+            },
+            "discountPercentage": {
+              "N": "17.91"
+            },
+            "rating": {
+              "N": "4.3"
+            },
+            "stock": {
+              "N": "123"
+            },
+            "brand": {
+              "S": "OPPO"
+            },
+            "category": {
+              "S": "smartphones"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/4/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/4/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/4/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/4/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "5"
+            },
+            "title": {
+              "S": "Huawei P30"
+            },
+            "description": {
+              "S": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK."
+            },
+            "price": {
+              "N": "499"
+            },
+            "discountPercentage": {
+              "N": "10.58"
+            },
+            "rating": {
+              "N": "4.09"
+            },
+            "stock": {
+              "N": "32"
+            },
+            "brand": {
+              "S": "Huawei"
+            },
+            "category": {
+              "S": "smartphones"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/5/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/5/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/5/3.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "6"
+            },
+            "title": {
+              "S": "MacBook Pro"
+            },
+            "description": {
+              "S": "MacBook Pro 2021 with mini-LED display may launch between September, November"
+            },
+            "price": {
+              "N": "1749"
+            },
+            "discountPercentage": {
+              "N": "11.02"
+            },
+            "rating": {
+              "N": "4.57"
+            },
+            "stock": {
+              "N": "83"
+            },
+            "brand": {
+              "S": "Apple"
+            },
+            "category": {
+              "S": "laptops"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/6/1.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/6/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/6/3.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/6/4.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+           "Item":{
+            "id": {
+              "N": "7"
+            },
+            "title": {
+              "S": "Samsung Galaxy Book"
+            },
+            "description": {
+              "S": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched"
+            },
+            "price": {
+              "N": "1499"
+            },
+            "discountPercentage": {
+              "N": "4.15"
+            },
+            "rating": {
+              "N": "4.25"
+            },
+            "stock": {
+              "N": "50"
+            },
+            "brand": {
+              "S": "Samsung"
+            },
+            "category": {
+              "S": "laptops"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/7/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/7/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/7/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "8"
+            },
+            "title": {
+              "S": "Microsoft Surface Laptop 4"
+            },
+            "description": {
+              "S": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen."
+            },
+            "price": {
+              "N": "1499"
+            },
+            "discountPercentage": {
+              "N": "10.23"
+            },
+            "rating": {
+              "N": "4.43"
+            },
+            "stock": {
+              "N": "68"
+            },
+            "brand": {
+              "S": "Microsoft Surface"
+            },
+            "category": {
+              "S": "laptops"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/8/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/8/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/8/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/8/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "9"
+            },
+            "title": {
+              "S": "Infinix INBOOK"
+            },
+            "description": {
+              "S": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty"
+            },
+            "price": {
+              "N": "1099"
+            },
+            "discountPercentage": {
+              "N": "11.83"
+            },
+            "rating": {
+              "N": "4.54"
+            },
+            "stock": {
+              "N": "96"
+            },
+            "brand": {
+              "S": "Infinix"
+            },
+            "category": {
+              "S": "laptops"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/9/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/9/2.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/9/3.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/9/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "10"
+            },
+            "title": {
+              "S": "HP Pavilion 15-DK1056WM"
+            },
+            "description": {
+              "S": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10"
+            },
+            "price": {
+              "N": "1099"
+            },
+            "discountPercentage": {
+              "N": "6.18"
+            },
+            "rating": {
+              "N": "4.43"
+            },
+            "stock": {
+              "N": "89"
+            },
+            "brand": {
+              "S": "HP Pavilion"
+            },
+            "category": {
+              "S": "laptops"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/10/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/10/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/10/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "11"
+            },
+            "title": {
+              "S": "perfume Oil"
+            },
+            "description": {
+              "S": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil"
+            },
+            "price": {
+              "N": "13"
+            },
+            "discountPercentage": {
+              "N": "8.4"
+            },
+            "rating": {
+              "N": "4.26"
+            },
+            "stock": {
+              "N": "65"
+            },
+            "brand": {
+              "S": "Impression of Acqua Di Gio"
+            },
+            "category": {
+              "S": "fragrances"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/11/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/11/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/11/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "12"
+            },
+            "title": {
+              "S": "Brown Perfume"
+            },
+            "description": {
+              "S": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml"
+            },
+            "price": {
+              "N": "40"
+            },
+            "discountPercentage": {
+              "N": "15.66"
+            },
+            "rating": {
+              "N": "4"
+            },
+            "stock": {
+              "N": "52"
+            },
+            "brand": {
+              "S": "Royal_Mirage"
+            },
+            "category": {
+              "S": "fragrances"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/12/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/12/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/12/3.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/12/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "13"
+            },
+            "title": {
+              "S": "Fog Scent Xpressio Perfume"
+            },
+            "description": {
+              "S": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men"
+            },
+            "price": {
+              "N": "13"
+            },
+            "discountPercentage": {
+              "N": "8.14"
+            },
+            "rating": {
+              "N": "4.59"
+            },
+            "stock": {
+              "N": "61"
+            },
+            "brand": {
+              "S": "Fog Scent Xpressio"
+            },
+            "category": {
+              "S": "fragrances"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/13/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/13/2.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/13/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/13/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "14"
+            },
+            "title": {
+              "S": "Non-Alcoholic Concentrated Perfume Oil"
+            },
+            "description": {
+              "S": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil"
+            },
+            "price": {
+              "N": "120"
+            },
+            "discountPercentage": {
+              "N": "15.6"
+            },
+            "rating": {
+              "N": "4.21"
+            },
+            "stock": {
+              "N": "114"
+            },
+            "brand": {
+              "S": "Al Munakh"
+            },
+            "category": {
+              "S": "fragrances"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/14/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/14/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/14/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "15"
+            },
+            "title": {
+              "S": "Eau De Perfume Spray"
+            },
+            "description": {
+              "S": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality"
+            },
+            "price": {
+              "N": "30"
+            },
+            "discountPercentage": {
+              "N": "10.99"
+            },
+            "rating": {
+              "N": "4.7"
+            },
+            "stock": {
+              "N": "105"
+            },
+            "brand": {
+              "S": "Lord - Al-Rehab"
+            },
+            "category": {
+              "S": "fragrances"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/15/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/15/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/15/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/15/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "16"
+            },
+            "title": {
+              "S": "Hyaluronic Acid Serum"
+            },
+            "description": {
+              "S": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid"
+            },
+            "price": {
+              "N": "19"
+            },
+            "discountPercentage": {
+              "N": "13.31"
+            },
+            "rating": {
+              "N": "4.83"
+            },
+            "stock": {
+              "N": "110"
+            },
+            "brand": {
+              "S": "L'Oreal Paris"
+            },
+            "category": {
+              "S": "skincare"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/16/1.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/16/2.webp"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/16/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/16/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "17"
+            },
+            "title": {
+              "S": "Tree Oil 30ml"
+            },
+            "description": {
+              "S": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,"
+            },
+            "price": {
+              "N": "12"
+            },
+            "discountPercentage": {
+              "N": "4.09"
+            },
+            "rating": {
+              "N": "4.52"
+            },
+            "stock": {
+              "N": "78"
+            },
+            "brand": {
+              "S": "Hemani Tea"
+            },
+            "category": {
+              "S": "skincare"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/17/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/17/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/17/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+          "Item":{
+            "id": {
+              "N": "18"
+            },
+            "title": {
+              "S": "Oil Free Moisturizer 100ml"
+            },
+            "description": {
+              "S": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen."
+            },
+            "price": {
+              "N": "40"
+            },
+            "discountPercentage": {
+              "N": "13.1"
+            },
+            "rating": {
+              "N": "4.56"
+            },
+            "stock": {
+              "N": "88"
+            },
+            "brand": {
+              "S": "Dermive"
+            },
+            "category": {
+              "S": "skincare"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/18/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/18/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/18/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/18/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "19"
+            },
+            "title": {
+              "S": "Skin Beauty Serum."
+            },
+            "description": {
+              "S": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m"
+            },
+            "price": {
+              "N": "46"
+            },
+            "discountPercentage": {
+              "N": "10.68"
+            },
+            "rating": {
+              "N": "4.42"
+            },
+            "stock": {
+              "N": "54"
+            },
+            "brand": {
+              "S": "ROREC White Rice"
+            },
+            "category": {
+              "S": "skincare"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/19/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/19/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/19/3.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "20"
+            },
+            "title": {
+              "S": "Freckle Treatment Cream- 15gm"
+            },
+            "description": {
+              "S": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects."
+            },
+            "price": {
+              "N": "70"
+            },
+            "discountPercentage": {
+              "N": "16.99"
+            },
+            "rating": {
+              "N": "4.06"
+            },
+            "stock": {
+              "N": "140"
+            },
+            "brand": {
+              "S": "Fair & Clear"
+            },
+            "category": {
+              "S": "skincare"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/20/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/20/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/20/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/20/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+          "Item":{
+            "id": {
+              "N": "21"
+            },
+            "title": {
+              "S": "- Daal Masoor 500 grams"
+            },
+            "description": {
+              "S": "Fine quality Branded Product Keep in a cool and dry place"
+            },
+            "price": {
+              "N": "20"
+            },
+            "discountPercentage": {
+              "N": "4.81"
+            },
+            "rating": {
+              "N": "4.44"
+            },
+            "stock": {
+              "N": "133"
+            },
+            "brand": {
+              "S": "Saaf & Khaas"
+            },
+            "category": {
+              "S": "groceries"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/21/thumbnail.png"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/21/1.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/21/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/21/3.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+           "Item":{
+            "id": {
+              "N": "22"
+            },
+            "title": {
+              "S": "Elbow Macaroni - 400 gm"
+            },
+            "description": {
+              "S": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm"
+            },
+            "price": {
+              "N": "14"
+            },
+            "discountPercentage": {
+              "N": "15.58"
+            },
+            "rating": {
+              "N": "4.57"
+            },
+            "stock": {
+              "N": "146"
+            },
+            "brand": {
+              "S": "Bake Parlor Big"
+            },
+            "category": {
+              "S": "groceries"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/22/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/22/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/22/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/22/3.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "23"
+            },
+            "title": {
+              "S": "Orange Essence Food Flavou"
+            },
+            "description": {
+              "S": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item"
+            },
+            "price": {
+              "N": "14"
+            },
+            "discountPercentage": {
+              "N": "8.04"
+            },
+            "rating": {
+              "N": "4.85"
+            },
+            "stock": {
+              "N": "26"
+            },
+            "brand": {
+              "S": "Baking Food Items"
+            },
+            "category": {
+              "S": "groceries"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/23/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/23/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/23/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/23/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "24"
+            },
+            "title": {
+              "S": "cereals muesli fruit nuts"
+            },
+            "description": {
+              "S": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji"
+            },
+            "price": {
+              "N": "46"
+            },
+            "discountPercentage": {
+              "N": "16.8"
+            },
+            "rating": {
+              "N": "4.94"
+            },
+            "stock": {
+              "N": "113"
+            },
+            "brand": {
+              "S": "fauji"
+            },
+            "category": {
+              "S": "groceries"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/24/1.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/24/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/24/3.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/24/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        },
+        {
+          "PutRequest": {
+            "Item":{
+            "id": {
+              "N": "25"
+            },
+            "title": {
+              "S": "Gulab Powder 50 Gram"
+            },
+            "description": {
+              "S": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds"
+            },
+            "price": {
+              "N": "70"
+            },
+            "discountPercentage": {
+              "N": "13.58"
+            },
+            "rating": {
+              "N": "4.87"
+            },
+            "stock": {
+              "N": "47"
+            },
+            "brand": {
+              "S": "Dry Rose"
+            },
+            "category": {
+              "S": "groceries"
+            },
+            "thumbnail": {
+              "S": "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+            },
+            "images": {
+              "L": [
+                {
+                  "S": "https://i.dummyjson.com/data/products/25/1.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/25/2.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/25/3.png"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/25/4.jpg"
+                },
+                {
+                  "S": "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+                }
+              ]
+            }
+          }
+          }
+        }
+    ]
+  }

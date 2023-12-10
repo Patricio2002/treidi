@@ -1,0 +1,1 @@
+awslocal dynamodb create-table --table-name TestProduct --attribute-definitions AttributeName=id,AttributeType=N --key-schema AttributeName=id,KeyType=HASH --provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5 && awslocal dynamodb batch-write-item --request-items file://products.json

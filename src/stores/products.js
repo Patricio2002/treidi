@@ -1,9 +1,12 @@
 import { defineStore } from 'pinia';
 import AWS from 'aws-sdk';
 
+
 AWS.config.update({
   region: 'us-east-1',
   endpoint: 'https://localhost.localstack.cloud:4566',
+  accessKeyId: 'test',
+  secretAccessKey: 'test',
 });
 
 const dynamoDB = new AWS.DynamoDB.DocumentClient();
