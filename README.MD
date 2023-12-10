@@ -1,7 +1,7 @@
 # Treidi
 
-Alfaro Dominguez Patricio
-Perez Osorio Luis Eduardo
+- Alfaro Dominguez Patricio
+- Perez Osorio Luis Eduardo
 
 [Demostración del proyecto](https://drive.google.com/file/d/1vyPUgDNFS7LU842-MRSEzlpLvYfABhOB/view)
 
@@ -31,4 +31,3 @@ Perez Osorio Luis Eduardo
 
 - Iniciar proyecto:
  <code>npm run dev</code>
- 
