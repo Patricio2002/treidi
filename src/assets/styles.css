@@ -10,8 +10,12 @@ main {
 }
 
 .v-toolbar{
+    background: rgb(2,179,152)!important;
+    background: linear-gradient(90deg, rgba(2,179,152,1) 0%, rgba(2,146,147,1) 100%)!important; 
     background-color: #029C94 !important;
     text-align: center !important;
+    padding: 5px;
+    color: white !important;
 }
 
 .cabecera{
@@ -20,12 +24,16 @@ main {
     color: white;
 }
 
-#texto{
+.texto{
     width: 100%;
     padding: 100px !important;
     display: flex;
+    justify-content: space-between;
 }
-
+button{
+    border: 1px #029C94 !important;
+    border-radius: 1rem;
+}
 .cuadro{
     width: 50%;
     color: #A1A3AE;
@@ -43,4 +51,16 @@ main {
 
 #titulos{
     margin-top:10%;
+}
+
+.v-btn{
+    margin-left: 10px;
+    color: #029C94 !important;
+}
+
+#botonPrincipal{
+    background: rgb(2,179,152)!important;
+    background: linear-gradient(90deg, rgba(2,179,152,1) 0%, rgba(2,146,147,1) 100%)!important; 
+    background-color: #029C94 !important;
+    color: white !important;
 }

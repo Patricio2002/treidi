@@ -1,17 +1,28 @@
 <template>
-  <div id="texto">
+  <div class="texto">
     <div class="cuadro" id="cuadro1">
       <div id="titulos">
         <h1 style="color: #1D3347;">Intercambia tus</h1>
         <h1 style="color: #028090;">Libros y más...</h1>
       </div>
       <p>Treidi es la nueva plataforma para poder intercambiar y adquirir productos entre particulares de manera fácil y rápida.</p>
+      <br><br>
+      <v-btn id="botonPrincipal">Comenzar</v-btn>
     </div>
     <div class="cuadro" id="cuadro2">
       <img src="../images/shop.png" alt="" width="100%">
     </div>
   </div>
   <div class="products-list">
+    <h1>Top categorías</h1>
+    <div>
+      <v-btn id="botonPrincipal">TODOS</v-btn>
+      <v-btn>LIBROS</v-btn>
+      <v-btn>ELECTRÓNICOS</v-btn>
+      <v-btn>CÓMPUTO</v-btn>
+      <v-btn>VIDEOJUEGOS</v-btn>
+      <v-btn>HOGAR</v-btn>
+    </div>
     
     <v-row no-gutters>
       <v-col
@@ -29,6 +40,7 @@
     </v-row>
 
     </div>
+   
 </template>
 
 <script>
