@@ -10,7 +10,7 @@
       />
 
       <v-card-title>
-        {{ props.productData.brand }}
+        {{ props.productData.title }}
       </v-card-title>
 
       <v-card-subtitle>
